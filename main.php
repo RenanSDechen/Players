@@ -90,63 +90,63 @@ if (!isset($_SESSION['nome'])) {
             <div id="div1" class="todos">
                 <h2 style="color:white;">Fogo</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_abrq1eel'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div2" class="todos">
                 <h2 style="color:white;">Agua</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_gpj049oa'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div3" class="todos">
                 <h2 style="color:white;">Terra</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_vzvyhdp9'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div4" class="todos">
                 <h2 style="color:white;">São Paulo</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/46596453?iframeembed=true&entry_id=0_2bls5z33'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div5" class="todos">
                 <h2 style="color:white;">Estúdio 3</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_gmu1nupr'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div6" class="todos">
                 <h2 style="color:white;">Poli</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/46596453?iframeembed=true&entry_id=1_ufdv91fj'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div7" class="todos">
                 <h2 style="color:white;">Lab</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/53346942?iframeembed=true&entry_id=1_p6p83qo6'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%;" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div8" class="todos">
                 <h2 style="color:white;">Outros-Eventos 1</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/53346942?iframeembed=true&entry_id=1_2odb7vx8'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
             <div id="div9" class="todos">
                 <h2 style="color:white;">Retransmissao</h2>
                 <iframe type="text/javascript"
-                    src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/53346942?iframeembed=true&entry_id=1_wi1cl2t2'
+                    src='link to kaltura'
                     style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
                     allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
             </div>
