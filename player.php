@@ -87,35 +87,35 @@ if (!isset($_SESSION['nome'])) {
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe>
     </div>
     <div id="div2" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_gpj049oa'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div3" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_vzvyhdp9'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div4" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/46596453?iframeembed=true&entry_id=0_2bls5z33'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div5" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_gmu1nupr'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div6" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/46596453?iframeembed=true&entry_id=1_ufdv91fj'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div7" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/53346942?iframeembed=true&entry_id=1_p6p83qo6'
+        src='link to kaltura'
         style="width: 100%; height: 100%;" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div8" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/51137833?iframeembed=true&entry_id=1_haxvq8kl'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
     <div id="div9" class="hidden"><iframe type="text/javascript"
-        src='https://cdnapisec.kaltura.com/p/2444871/embedPlaykitJs/uiconf_id/53346942?iframeembed=true&entry_id=1_wi1cl2t2'
+        src='link to kaltura'
         style="width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen
         allow=" fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
 
